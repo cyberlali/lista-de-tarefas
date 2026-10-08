@@ -1,6 +1,6 @@
 # Minha Lista de Tarefas (To-Do App)
 
-Uma aplicação simples e elegante de Lista de Tarefas (To-Do List) desenvolvida com HTML, CSS e JavaScript. Este projeto permite adicionar, marcar como concluídas e remover tarefas, além de salvar os dados localmente no navegador para não perdê-los.
+Uma aplicação simples e elegante de Lista de Tarefas (To-Do List) para ajudar na organização diária.
 
 ## 🚀 Funcionalidades
 
@@ -23,6 +23,16 @@ Uma aplicação simples e elegante de Lista de Tarefas (To-Do List) desenvolvida
 
 ## 💻 Como Executar o Projeto
 
-1. Clone este repositório no seu computador:
-   ```bash
-   git clone [https://github.com/cyberlali/lista-de-tarefas.git](https://github.com/cyberlali/lista-de-tarefas.git)
+**1. Clone este repositório para o seu computador:**
+
+`git clone https://github.com/cyberlali/lista-de-tarefas.git`
+
+**2. Acesse a pasta do projeto:**
+
+`cd lista_de_tarefas`
+
+**3. Abra o projeto:**
+Certifique-se de que os arquivos `index.html`, `style.css` e `script.js` estão na mesma pasta. Além disso, tenha a pasta `images/` com os ícones (`icon.png`, `unchecked.png`, `checked.png`). Depois, basta abrir o arquivo `index.html` no seu navegador!
+
+---
+Desenvolvido por [Laura](https://github.com/cyberlali)
