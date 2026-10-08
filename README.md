@@ -29,7 +29,7 @@ Uma aplicação simples e elegante de Lista de Tarefas (To-Do List) para ajudar 
 
 **2. Acesse a pasta do projeto:**
 
-`cd lista_de_tarefas`
+`cd lista-de-tarefas`
 
 **3. Abra o projeto:**
 Certifique-se de que os arquivos `index.html`, `style.css` e `script.js` estão na mesma pasta. Além disso, tenha a pasta `images/` com os ícones (`icon.png`, `unchecked.png`, `checked.png`). Depois, basta abrir o arquivo `index.html` no seu navegador!
